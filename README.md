@@ -16,11 +16,9 @@ I build and harden cloud-native platforms — upstream Kubernetes, declarative
 delivery, and the guardrails that keep them safe to run. I care about systems that
 scale and are governed by default.
 
-<div align="center">
+<img src="assets/card-focus-1280x300.png" alt="Focus areas" width="100%" />
 
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,linux,go,python,bash,git,githubactions,prometheus,grafana" alt="Skill icons" />
-
-</div>
+<img src="assets/card-skills-1280x220.png" alt="Skills" width="100%" />
 
 ## Domains
 
@@ -31,16 +29,16 @@ scale and are governed by default.
 | **Automation** | Cluster lifecycle and day-2 operations | [40-cluster-automation](https://github.com/40-cluster-automation) |
 | **AI infrastructure** | Governance and cost-efficient inference | [org-ai-governance](https://github.com/org-ai-governance) |
 
-## Activity
+## Organizations
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gadix-labs&show_icons=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=1a1a1a&bg_color=f8f9fa" alt="Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadix-labs&layout=compact&hide_border=true&title_color=00b4d8&text_color=1a1a1a&bg_color=f8f9fa" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gadix-labs&hide_border=true&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" alt="Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gadix-labs&hide_border=true&color=00b4d8&line=0077b6&point=0b2545&area=true&bg_color=f8f9fa" alt="Activity graph" width="100%" />
+<a href="https://github.com/00-governance"><img src="https://img.shields.io/badge/-Governance-0b2545?style=flat-square&logo=github" alt="Governance" /></a>
+<a href="https://github.com/10-vanilla-k8s-and-hardening"><img src="https://img.shields.io/badge/-Kubernetes-0b2545?style=flat-square&logo=kubernetes" alt="Kubernetes" /></a>
+<a href="https://github.com/30-gitops-argocd-flux"><img src="https://img.shields.io/badge/-GitOps-0b2545?style=flat-square&logo=argo" alt="GitOps" /></a>
+<a href="https://github.com/40-cluster-automation"><img src="https://img.shields.io/badge/-Automation-0b2545?style=flat-square&logo=ansible" alt="Automation" /></a>
+<a href="https://github.com/org-ai-governance"><img src="https://img.shields.io/badge/-AI%20Governance-0b2545?style=flat-square&logo=openai" alt="AI Governance" /></a>
+<a href="https://github.com/org-cheaper-inference"><img src="https://img.shields.io/badge/-Inference-0b2545?style=flat-square&logo=nvidia" alt="Inference" /></a>
 
 </div>
 
